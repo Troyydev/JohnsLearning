@@ -1,0 +1,50 @@
+Privacy Policy
+
+Last Updated: 12/10/2024
+Introduction
+
+At Troyy studios, your privacy is of utmost importance to us. This Privacy Policy explains how we collect, use, and protect your personal information while you are using our game. By playing Troyy studios, you agree to the collection and use of information in accordance with this policy.
+
+If you have any questions or concerns about this Privacy Policy, please contact us at troyyemails@gmail.com.
+
+Information We Collect
+
+We collect information from you in the following ways:
+
+Account Information: When you log in through the game, we may collect personal information, including but not limited to your email address, username, and account details, which are stored and managed via PlayFab.
+
+Game Data: To enhance your gaming experience, we collect gameplay data such as progress, in-game purchases, achievements, and interactions within the game. This data is also stored and processed through PlayFab and Photon.
+
+Device Information: We may collect data about your device, such as your IP address, operating system, device ID, and platform (e.g., Oculus) to optimize the game's performance.
+
+Usage Information: We collect information about how you interact with the game, including crash logs, player activity, and performance statistics, to identify and fix issues and improve gameplay.
+
+How We Use Your Information
+
+We use the information we collect to:
+
+Provide and maintain the game, including managing player accounts and in-game data.
+Improve the game experience through player feedback and analysis of usage data.
+Monitor and detect cheating or misuse of the game.
+Communicate with you regarding updates, in-game events, and support inquiries.
+Third-Party Services
+
+We use third-party services, including but not limited to PlayFab and Photon, to manage game data, player authentication, and multiplayer services. These services may collect personal information about you, and their privacy policies govern the use of such data. We recommend reviewing their privacy policies:
+
+PlayFab: PlayFab Privacy Policy
+Photon: Photon Privacy Policy
+Data Security
+
+We take reasonable measures to protect your data from unauthorized access, alteration, or destruction. However, no method of transmission over the internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+Your Rights
+
+You have the right to access, update, or delete your personal information stored with us. If you wish to exercise these rights or have any concerns about your data, please contact us at troyyemails@gmail.com.
+
+Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted here, and the date at the top of the policy will reflect the last update. Continued use of the game after any changes constitutes your acceptance of the new terms.
+
+Contact Us
+
+If you have any questions about this Privacy Policy or our data practices, please contact us at troyyemails@gmail.com.
